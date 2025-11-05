@@ -1,0 +1,26 @@
+c:\users\gutie\documents\visual studio 2013\Projects\BSIT2A Directory\BSIT2A Directory\bin\Debug\BSIT2A Directory.exe.config
+c:\users\gutie\documents\visual studio 2013\Projects\BSIT2A Directory\BSIT2A Directory\bin\Debug\BSIT2A Directory.exe
+c:\users\gutie\documents\visual studio 2013\Projects\BSIT2A Directory\BSIT2A Directory\bin\Debug\BSIT2A Directory.pdb
+c:\users\gutie\documents\visual studio 2013\Projects\BSIT2A Directory\BSIT2A Directory\bin\Debug\BSIT2A Directory.xml
+c:\users\gutie\documents\visual studio 2013\Projects\BSIT2A Directory\BSIT2A Directory\obj\Debug\BSIT2A_Directory.frmBSIT2ADirectory.resources
+c:\users\gutie\documents\visual studio 2013\Projects\BSIT2A Directory\BSIT2A Directory\obj\Debug\BSIT2A_Directory.Resources.resources
+c:\users\gutie\documents\visual studio 2013\Projects\BSIT2A Directory\BSIT2A Directory\obj\Debug\BSIT2A Directory.vbproj.GenerateResource.Cache
+c:\users\gutie\documents\visual studio 2013\Projects\BSIT2A Directory\BSIT2A Directory\obj\Debug\BSIT2A Directory.exe
+c:\users\gutie\documents\visual studio 2013\Projects\BSIT2A Directory\BSIT2A Directory\obj\Debug\BSIT2A Directory.xml
+c:\users\gutie\documents\visual studio 2013\Projects\BSIT2A Directory\BSIT2A Directory\obj\Debug\BSIT2A Directory.pdb
+C:\Users\Gutie\documents\visual studio 2013\Projects\BSIT2A Directory\BSIT2A Directory\obj\Debug\BSIT2A Directory.vbprojResolveAssemblyReference.cache
+C:\Users\Gutie\documents\visual studio 2013\Projects\BSIT2A Directory\BSIT2A Directory\obj\Debug\BSIT2A_Directory.frmLogin.resources
+D:\College\repos\BSIT2A Directory\BSIT2A Directory\bin\Debug\BSIT2A Directory.exe.config
+D:\College\repos\BSIT2A Directory\BSIT2A Directory\bin\Debug\BSIT2A Directory.exe
+D:\College\repos\BSIT2A Directory\BSIT2A Directory\bin\Debug\BSIT2A Directory.pdb
+D:\College\repos\BSIT2A Directory\BSIT2A Directory\bin\Debug\BSIT2A Directory.xml
+D:\College\repos\BSIT2A Directory\BSIT2A Directory\obj\Debug\BSIT2A Directory.vbproj.AssemblyReference.cache
+D:\College\repos\BSIT2A Directory\BSIT2A Directory\obj\Debug\BSIT2A_Directory.frmBSIT2ADirectory.resources
+D:\College\repos\BSIT2A Directory\BSIT2A Directory\obj\Debug\BSIT2A_Directory.frmLogin.resources
+D:\College\repos\BSIT2A Directory\BSIT2A Directory\obj\Debug\BSIT2A_Directory.Resources.resources
+D:\College\repos\BSIT2A Directory\BSIT2A Directory\obj\Debug\BSIT2A Directory.vbproj.GenerateResource.cache
+D:\College\repos\BSIT2A Directory\BSIT2A Directory\obj\Debug\BSIT2A Directory.vbproj.CoreCompileInputs.cache
+D:\College\repos\BSIT2A Directory\BSIT2A Directory\obj\Debug\BSIT2A Directory.exe
+D:\College\repos\BSIT2A Directory\BSIT2A Directory\obj\Debug\BSIT2A Directory.xml
+D:\College\repos\BSIT2A Directory\BSIT2A Directory\obj\Debug\BSIT2A Directory.pdb
+D:\College\repos\BSIT2A Directory\BSIT2A Directory\obj\Debug\BSIT2A Directory.exe.config
